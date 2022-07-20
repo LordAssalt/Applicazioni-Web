@@ -1,0 +1,31 @@
+.footer{
+    margin-top: 1rem;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+
+tr.hide-table-padding td {
+    padding: 0;
+}
+
+.table-grey{
+    background-color: rgb(60, 60, 60, 0.1);
+}
+.table-red{
+    background-color:rgb(255, 0, 0,0.2);
+}
+
+.table-yellow{
+    background-color:rgb(255, 255, 0,0.1);
+}
+
+.table-blue{
+    background-color:rgb(0, 0, 255,0.1);
+} 
+
+.tooltip{
+    font-size: 10rem;
+}
